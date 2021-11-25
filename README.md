@@ -7,7 +7,7 @@ A Data Journalist must sort through a large dataset about UFO sightings. The Jou
 <img width="952" alt="website" src="https://user-images.githubusercontent.com/87162266/143358677-452d3984-a82e-417f-a342-e3884f25a3e4.PNG">
 
 ### How to Use UFO Finder Website
-Below are images with highlights to the corresponding filter. The filters can be used individually or stacked which is shown (here). 
+Below are images with highlights to the corresponding filter. The filters can be used individually or stacked. 
 #### Filter by Date
 <img width="933" alt="filter_by_date" src="https://user-images.githubusercontent.com/87162266/143359105-23c37fc2-dd37-4f4b-8d74-37d1bd2c29d9.PNG">
 
