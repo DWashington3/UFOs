@@ -25,7 +25,7 @@ Below are images with highlights to the corresponding filter. The filters can be
 
 #### Stacking Filters 
 
-The search can be further focused by apploying multiple filters. In the first image the first filter is applied, and for the following image another filter is applied.
+The search can be further focused by apploying multiple filters. In the first image the first two filters are applied, and for the following image another filter is applied.
 
 <img width="908" alt="Stacking_filters" src="https://user-images.githubusercontent.com/87162266/143358467-a381ca86-4674-4dad-8a33-cf517f334d06.PNG">
 
